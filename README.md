@@ -97,6 +97,33 @@ It's a practical solution that delivers automation without complexity — perfec
 
 ---
 
+## 🎥 Demo
+
+Watch the full walkthrough of the system in action:
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Watch Demo" width="700"/>
+  </a>
+</p>
+
+> 📽️ Click the image above to view the demo on YouTube.
+
+
+### 📋 Transaction Form (Customer Input)
+<img src="images/form-screenshot.png" alt="Service Form" width="600"/>
+
+### 🧾 Invoice Template (Google Sheets)
+<img src="images/invoice-template.png" alt="Invoice Template" width="600"/>
+
+### 📬 Email with PDF Invoice
+<img src="images/email-screenshot.png" alt="Invoice Email" width="600"/>
+
+> 🔍 These images show the key parts of the system: the form used by the shop owner, the auto-filled invoice, and the final email sent to the customer.
+
+---
+
+
 
 ## 🔐 Environment Configuration
 
