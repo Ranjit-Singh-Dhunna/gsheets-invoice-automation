@@ -118,7 +118,7 @@ Watch the full walkthrough of the system in action(Trigger frequency is 1 minute
 
 Before running the app, create a `.env` file in the project root to securely store your URL details.
 
-```env
+``` env
 # .env
 scriptUrl=https://script.google.com/...../exec
 
