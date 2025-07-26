@@ -1,8 +1,8 @@
-# 🧾 Automated Service Request & Invoice Management System
+# 🧾 Automated Service Request & Invoice Management System (Click2Bill)
 
 > Built for self-managed businesses that need fast, simple automation — no servers, no subscriptions.
 
-This lightweight system helps small shop owners streamline their service requests and invoicing using tools they already know — especially **Google Sheets**.
+Click2Bill helps small shop owners streamline their service requests and invoicing using tools they already know — especially **Google Sheets**.
 
 ### Why Google Sheets?
 
@@ -99,7 +99,7 @@ It's a practical solution that delivers automation without complexity — perfec
 
 ## 🎥 Demo
 
-Watch the full walkthrough of the system in action:
+Watch the full walkthrough of the system in action(Trigger frequency is 1 minute):
 
 <p align="center">
    
