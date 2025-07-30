@@ -41,6 +41,7 @@ It's a practical solution that delivers automation without complexity — perfec
 - Searchable, timestamped records
 - Customizable form, email, and templates
 - Minimal setup and easy to maintain
+- Reducing manual data entry time by 70%
 
 ---
 
